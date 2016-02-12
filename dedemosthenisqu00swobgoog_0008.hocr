@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedemosthenisqu00swobgoog_0008.png"; bbox 0 0 3530 5536; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 478 257 556">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 478 257 556">
+     <span class='ocr_line' id='line_1_1' title="bbox 225 478 257 556; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 225 478 257 556; x_wconf 83' lang='grc' dir='ltr'>Θ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 294 777 1385 943">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 294 777 1385 943">
+     <span class='ocr_line' id='line_1_2' title="bbox 294 777 1385 943; baseline 0.003 -3"><span class='ocrx_word' id='word_1_2' title='bbox 294 781 450 940; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 524 777 1385 943; x_wconf 79' lang='lat' dir='ltr'>DEMOSTHENIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 591 1226 1162 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 591 1226 1162 1426">
+     <span class='ocr_line' id='line_1_3' title="bbox 591 1226 1162 1426; baseline 0 -20"><span class='ocrx_word' id='word_1_4' title='bbox 591 1287 738 1423; x_wconf 76' lang='lat' dir='ltr'>QUAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 782 1290 1094 1426; x_wconf 72' lang='lat' dir='ltr'>FERUNTUR</span> <span class='ocrx_word' id='word_1_6' title='bbox 1158 1226 1162 1234; x_wconf 68' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 472 1751 1205 1872">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 472 1751 1205 1872">
+     <span class='ocr_line' id='line_1_4' title="bbox 472 1751 1205 1872; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 472 1751 1205 1872; x_wconf 83' lang='lat' dir='ltr'>PROOEMIIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 572 2725 1186 2865">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 572 2725 1186 2865">
+     <span class='ocr_line' id='line_1_5' title="bbox 572 2725 1186 2865; baseline 0.003 -59"><span class='ocrx_word' id='word_1_8' title='bbox 572 2725 844 2808; x_wconf 73' lang='lat' dir='ltr'><strong>RAIMUNDUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 868 2725 1101 2865; x_wconf 54' lang='lat' dir='ltr'>§WossonA</span> <span class='ocrx_word' id='word_1_10' title='bbox 1183 2823 1186 2830; x_wconf 50' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1770 5536">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1770 5536">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1770 5536; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1770 5536; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
